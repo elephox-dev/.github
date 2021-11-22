@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.svg" alt="Elephox Logo">
+  <img src="https://raw.githubusercontent.com/elephox-dev/.github/main/profile/logo.svg" alt="Elephox Logo">
   <br>
   <br>
   Yet another PHP Framework.
